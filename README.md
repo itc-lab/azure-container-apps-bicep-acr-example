@@ -42,4 +42,4 @@ The resources created by the GitHub Actions deploy job are:
 <br />
 
 For detailed instructions, check out this blog post. (External link, In Japanese)  
-[Deploy to Azure Container Apps using bicep, GitHub Container Registry, GitHub Actions](https://itc-engineering-blog.netlify.app/blogs/acr-aca-bicep)
+[Deploy to Azure Container Apps using bicep, Azure Container Registry, GitHub Actions](https://itc-engineering-blog.netlify.app/blogs/acr-aca-bicep)
